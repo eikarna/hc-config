@@ -9,11 +9,12 @@ CDN Mirrors of my HC Config.
 Click Floating Action Button/Button "+".
 
 ### Step 2:
-![Tutor 1](https://gist.github.com/assets/137246570/7b2e73f1-9082-446f-9143-e67ad2bad2db)
+![IMG-20240109-WA0018](https://gist.github.com/assets/137246570/7b2e73f1-9082-446f-9143-e67ad2bad2db)
 
 Click "Cloud Config".
 
 ### Step 3:
-![Tutor 2](https://gist.github.com/assets/137246570/e91bac71-5cb3-43ca-970a-d6210eaee3bb)
+![IMG-20240109-WA0019](https://gist.github.com/assets/137246570/e91bac71-5cb3-43ca-970a-d6210eaee3bb)
+
 
 Fill the URL with link that i describe at the Note section.
