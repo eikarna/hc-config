@@ -16,5 +16,7 @@ Click "Cloud Config".
 ### Step 3:
 ![IMG-20240109-WA0019](https://gist.github.com/assets/137246570/e91bac71-5cb3-43ca-970a-d6210eaee3bb)
 
-
 Fill the URL with link that i describe at the Note section.
+
+# Usage for Other Apps
+[Go Here](https://github.com/eikarna/opok-config)
