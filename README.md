@@ -14,6 +14,6 @@ Click Floating Action Button/Button "+".
 Click "Cloud Config".
 
 ### Step 3:
-![Tutor 2](https://gist.github.com/assets/137246570/e3b69aad-6e76-4ec2-b8ee-7c9a8807913c)
+![Tutor 2](https://gist.github.com/assets/137246570/e91bac71-5cb3-43ca-970a-d6210eaee3bb)
 
 Fill the URL with link that i describe at the Note section.
