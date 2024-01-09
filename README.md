@@ -3,7 +3,7 @@
 CDN Mirrors of my HC Config.
 
 # Usage in HTTP Custom
-##### Note: the cloud config link starts with `https://github.com/eikarna/hc-config/raw/main/`. Ex: `https://github.com/eikarna/hc-config/raw/main/tsel/tsel-wf.hc`.
+##### Note: the cloud config link starts with `https://github.com/eikarna/hc-config/raw/main/`. Example when i want to use config where stored in directory "tsel": `https://github.com/eikarna/hc-config/raw/main/tsel/tsel-wf.hc`.
 
 ### Step 1:
 Click Floating Action Button/Button "+".
